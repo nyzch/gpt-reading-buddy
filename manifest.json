@@ -1,0 +1,11 @@
+{
+    "name": "GPT Reading Buddy",
+    "version": "0.1.0",
+    "description": "Never leave your tab again! This extension automatically defines highlighted words for you.",
+    "manifest_version": 3,
+    "author": "nyzch",
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "alpha testing"
+    }
+}
